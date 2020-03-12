@@ -1,0 +1,12 @@
+C:\Users\Rada\source\repos\patrones\patrones\obj\Debug\patrones.csprojAssemblyReference.cache
+C:\Users\Rada\source\repos\patrones\patrones\obj\Debug\patrones.IU.FrmEmpresas.resources
+C:\Users\Rada\source\repos\patrones\patrones\obj\Debug\patrones.IU.FrmPrincipal.resources
+C:\Users\Rada\source\repos\patrones\patrones\obj\Debug\patrones.IU.FrmSocios.resources
+C:\Users\Rada\source\repos\patrones\patrones\obj\Debug\patrones.Properties.Resources.resources
+C:\Users\Rada\source\repos\patrones\patrones\obj\Debug\patrones.csproj.GenerateResource.cache
+C:\Users\Rada\source\repos\patrones\patrones\obj\Debug\patrones.csproj.CoreCompileInputs.cache
+C:\Users\Rada\source\repos\patrones\patrones\bin\Debug\patrones.exe.config
+C:\Users\Rada\source\repos\patrones\patrones\bin\Debug\patrones.exe
+C:\Users\Rada\source\repos\patrones\patrones\bin\Debug\patrones.pdb
+C:\Users\Rada\source\repos\patrones\patrones\obj\Debug\patrones.exe
+C:\Users\Rada\source\repos\patrones\patrones\obj\Debug\patrones.pdb
